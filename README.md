@@ -4,4 +4,6 @@ This project is a part of the 2024 MPAGS software development with c++ course.
 
 # How to Install 
 
+# Documentation
+
 # Authors
